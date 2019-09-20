@@ -1,0 +1,6 @@
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\bin\Release\VehicleParkingEntities.dll
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\bin\Release\VehicleParkingEntities.pdb
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Release\VehicleParkingEntities.csprojAssemblyReference.cache
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Release\VehicleParkingEntities.csproj.CoreCompileInputs.cache
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Release\VehicleParkingEntities.dll
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Release\VehicleParkingEntities.pdb

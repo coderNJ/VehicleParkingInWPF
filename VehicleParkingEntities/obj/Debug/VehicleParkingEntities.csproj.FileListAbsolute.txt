@@ -1,0 +1,17 @@
+C:\Users\anjali\source\repos\VehicleParkingProject\VehicleParkingEntities\bin\Debug\VehicleParkingEntities.dll
+C:\Users\anjali\source\repos\VehicleParkingProject\VehicleParkingEntities\bin\Debug\VehicleParkingEntities.pdb
+C:\Users\anjali\source\repos\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.csprojAssemblyReference.cache
+C:\Users\anjali\source\repos\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.csproj.CoreCompileInputs.cache
+C:\Users\anjali\source\repos\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.dll
+C:\Users\anjali\source\repos\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.pdb
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\bin\Debug\VehicleParkingEntities.dll
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\bin\Debug\VehicleParkingEntities.pdb
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.csproj.CoreCompileInputs.cache
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.dll
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.pdb
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingWPF\VehicleParkingEntities\bin\Debug\VehicleParkingEntities.dll
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingWPF\VehicleParkingEntities\bin\Debug\VehicleParkingEntities.pdb
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingWPF\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.csprojAssemblyReference.cache
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingWPF\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.csproj.CoreCompileInputs.cache
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingWPF\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.dll
+D:\GitRepositories\WPF\VehicleParkingProject\VehicleParkingWPF\VehicleParkingEntities\obj\Debug\VehicleParkingEntities.pdb

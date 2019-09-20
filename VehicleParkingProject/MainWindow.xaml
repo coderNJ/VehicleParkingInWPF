@@ -1,0 +1,18 @@
+﻿<Window x:Class="VehicleParkingProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VehicleParkingProject"
+        xmlns:views="clr-namespace:VehicleParkingProject.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="WPF Vehicle Park" Height="60" HorizontalAlignment="Center" FontSize="30" FontWeight="ExtraBold" Margin="20"/>
+            <views:Floor x:Name="Floor1" Loaded="Floor1_Loaded"/>
+            <views:Floor x:Name="Floor2" Loaded="Floor2_Loaded" />
+            <views:Floor x:Name="Floor3" Loaded="Floor3_Loaded"/>
+        </StackPanel>
+    </Grid>
+</Window>
